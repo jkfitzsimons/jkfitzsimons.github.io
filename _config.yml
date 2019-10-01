@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
@@ -8,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Jack Fitzsimons
-tagline:          'University of Oxford'
-description:      'D.Phil. Graduate in Machine Learning at the University of Oxford'
+tagline:          'Machine Learning Researcher'
+description:      'D.Phil. (Oxon) in Machine Learning '
 url: https://jkfitzsimons.github.io
 baseurl: https://jkfitzsimons.github.io
 
