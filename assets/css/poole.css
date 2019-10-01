@@ -35,6 +35,10 @@
  * Update the foundational and global aspects of the page.
  */
 
+li {
+    margin-bottom: 20px;
+}
+
 @font-face {
     font-family: "myOptima";
     src: url("../fonts/optima-webfont.woff");
