@@ -1,0 +1,38 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Gabriele Abbati
+tagline:          'University of Oxford'
+description:      'D.Phil. Candidate in Machine Learning at the University of Oxford'
+url: http://www.robots.ox.ac.uk
+baseurl: http://www.robots.ox.ac.uk/~gabb
+
+# ftp settings
+ftp_host: 'robots.ox.ac.uk'
+ftp_dir: '/homes/48/gabb/WWW/'
+ftp_passive: false
+
+scholar:
+  style: apa
+  repository: assets/pdf
+  bibliography_template: bibliography
+
+author:
+  name:           'Gabriele Abbati'
+
+
+gems: [jekyll-paginate,jekyll-gist,jekyll/scholar]
+paginate:         5
+paginate_path: "page:num"
+
+# Custom vars
+version:          1.0.0
+
+github:
+      repo:           https://github.com/gabb7/robots_gabb
