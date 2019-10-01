@@ -212,11 +212,11 @@ a.sidebar-nav-item:focus {
 
 /* Oxford Blue */
 .theme-base-ox .sidebar {
-  background-color: #002147;
+  background-color: #1e2a38;
 }
 .theme-base-ox .content a,
 .theme-base-ox .related-posts li a:hover {
-  color: #002147;
+  color: #1e2a38;
 }
 
 /* Red */
