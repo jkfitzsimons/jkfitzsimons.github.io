@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Jack Fitzsimons
 tagline:          'University of Oxford'
 description:      'D.Phil. Graduate in Machine Learning at the University of Oxford'
-url: http://www.jackfitzsimons.com
-baseurl: http://www.jackfitzsimons.com
+url: https://jkfitzsimons.github.io
+baseurl: https://jkfitzsimons.github.io
 
 scholar:
   style: apa
