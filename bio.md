@@ -1,6 +1,0 @@
----
-title: Bio
-layout: page
----
-
-
